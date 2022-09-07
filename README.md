@@ -31,10 +31,15 @@ Ao rodar aplicação
 Para entrar na aplicação é exigido autenticação
 
 1ª tela Login será pedido email e senha e clique em entrar (Caso não tenha cadastrado email e usuário clique em "Registrar-me" que será pedido Nome, Email e Senha)
+
 2º tela Salas onde é listado as salas disponíveis para entrar em algum link
+
 3ª tela Nova sala onde se pode criar outra sala com outro link
+
 4ª tela (Na 2ª tela se pode editar as salas clicando no botão editar)
+
 Também a 2ª tela pode-se ecluir sala clicando em excluir
+
 Também no canto superior direito pode-se deslogar.
 
 
