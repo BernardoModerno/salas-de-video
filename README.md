@@ -46,6 +46,14 @@ Também a 2ª tela pode-se ecluir sala clicando em excluir
 
 Também no canto superior direito pode-se deslogar.
 
+Bando de Dados Postgres:
+deve ser criado um Schema de nome salas.
+E rodar os comandos no terminal da pasta backend:
+yarn add prisma
+yarn add @prisma/client
+npx prisma init
+yarn prisma migrate dev
+
 
 
 
